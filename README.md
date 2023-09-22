@@ -37,7 +37,5 @@
 Email: renanpublionascimento@gmail.com 
 
 
-Projetos
-
-Além do pokeVitae, tenho outros projetos interessantes em meu perfil do GitHub. Sinta-se à vontade para explorá-los e contribuir com ideias ou feedback.
+.
 
