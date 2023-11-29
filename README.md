@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=180&section=header&text=Front%20End%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+## Oi sou Renan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72424&width=435&lines=Seja+bem+vindo+!+;Me+chamo+Renan;Sou+desenvolvedor+Front-end)](https://git.io/typing-svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Renan-Publioanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Main skills: 
 
