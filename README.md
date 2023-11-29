@@ -51,7 +51,7 @@
 
  # Contador de visitas !
 
-</div>
+<div style= "display: inline_block" margin: 20px><br>
 
   [![HitCount](https://hits.dwyl.com/Renan-publio/Renan-publio.svg?style=flat-square)](http://hits.dwyl.com/Renan-publio/Renan-publio)
 
