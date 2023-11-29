@@ -1,6 +1,8 @@
 ## Oi sou Renan
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRenan-Publioanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Renan-Publio's Stats](https://github-readme-stats.vercel.app/api?username=Renan-Publio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Renan-Publio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Publio&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Main skills: 
 
