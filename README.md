@@ -47,10 +47,16 @@
   <a href="https://www.linkedin.com/in/renan-souza-681ba1232/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:renanpublionascimento@gmail.com "> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://medium.com/@renanpublionascimento"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</div>
 
+ # Contador de visitas !
 
 </div>
 
+  [![HitCount](https://hits.dwyl.com/Renan-publio/Renan-publio.svg?style=flat-square)](http://hits.dwyl.com/Renan-publio/Renan-publio)
+
+
+</div>
 
 
 
