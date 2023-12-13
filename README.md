@@ -1,4 +1,4 @@
-## Sou Renan Publio, sou desenvolvedor Full-Stack, e atualmente estou no segundo período da minha formação em Análise e desenvolvimentos de sistemas na Universidade Estácio de sá, e possuo um ano de experiência como estágiario na área.
+## Sou Renan Publio, sou desenvolvedor Full-Stack.
 
 
 ### Principais Linguagens de programação: 
@@ -28,15 +28,6 @@
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-</div>
-
-### Linguagens em estudo:
-
-<div style= "display: inline_block" margin: 10px><br>
-  
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)" />
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 
